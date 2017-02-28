@@ -3,3 +3,16 @@ html, body {
   height: 100%;
   background: black;
 }
+
+canvas {
+  position: absolute;
+}
+section {
+  z-index: 2;
+  font-size: large;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0 0 0 -50px;
+}
