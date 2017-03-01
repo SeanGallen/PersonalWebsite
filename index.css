@@ -9,10 +9,18 @@ canvas {
 }
 section {
   z-index: 2;
-  font-size: large;
+  font-size: 2em;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  text-align: center;
   color: white;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
-  margin: 0 0 0 -50px;
+  margin: 0 0 0 -70px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
